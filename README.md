@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Alejandro-bcc/Alejandro-bcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alejandro, a Computer Science student at the Federal University of Paraná (UFPR), Brazil. Originally from Venezuela, I'm passionate about software development and exploring all things tech!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Student:** Computer Science at UFPR, Brazil
+- 💻 **Languages & Tools:** C, Linux, Vim
+- 🌐 **Interests:** Software development, full-stack development
+- 🤝 **Community:** Member of [PET Computação UFPR](https://github.com/PETComputacaoUFPR)
+- 🌎 **From:** Venezuela
+
+## 🚀 What I’m Working On
+
+Currently, I’m focused on deepening my knowledge in software engineering and participating in projects with the PET Computação group. 
+
+## 📫 How to reach me
+
+Feel free to connect or check out my projects!
+
+---
+
+Thanks for stopping by! 😊
