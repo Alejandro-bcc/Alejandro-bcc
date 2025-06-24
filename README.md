@@ -20,4 +20,4 @@ Feel free to connect or check out my projects!
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by! :)
